@@ -35,9 +35,15 @@ Your tasks:
 
 ## Features (Version 1)
 
-Add tasks
-View all tasks
-Quit the program
+- Add tasks
+- View all tasks
+- Quit the program
+
+## Features (Version 2)
+- Add tasks  
+- View all tasks  
+- Delete tasks by number  
+- Quit the program
 
 ## Author
 👨‍💻 Prabath
